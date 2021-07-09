@@ -1,2 +1,2 @@
 # Coursera
-Repository for Coursera Stats courses
+Repository for Coursera Stats courses using R
